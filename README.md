@@ -7,6 +7,7 @@
 
 - https://schneidr.de/
 - https://twitter.com/schneidr_de
+- <a href="https://social.tchncs.de/@schneidr" rel="me">https://social.tchncs.de/@schneidr</a>
 
 <a href="https://stackexchange.com/users/73701/gerald-schneider"><img src="https://stackexchange.com/users/flair/73701.png" width="208" height="58" alt="profile for Gerald Schneider on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Gerald Schneider on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
